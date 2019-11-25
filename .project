@@ -8,4 +8,121 @@
 	</buildSpec>
 	<natures>
 	</natures>
+	<linkedResources>
+		<link>
+			<name>RegisterPage/RegisterPage.html</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/RegisterPage.html</location>
+		</link>
+		<link>
+			<name>RegisterPage/css</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>RegisterPage/js</name>
+			<type>2</type>
+			<locationURI>virtual:/virtual</locationURI>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-grid.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-grid.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-grid.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-grid.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-grid.min.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-grid.min.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-grid.min.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-grid.min.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-reboot.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-reboot.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-reboot.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-reboot.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-reboot.min.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-reboot.min.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap-reboot.min.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap-reboot.min.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap.min.css</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap.min.css</location>
+		</link>
+		<link>
+			<name>RegisterPage/css/bootstrap.min.css.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/css/bootstrap.min.css.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.bundle.js</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.bundle.js</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.bundle.js.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.bundle.js.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.bundle.min.js</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.bundle.min.js</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.bundle.min.js.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.bundle.min.js.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.js</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.js</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.js.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.js.map</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.min.js</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.min.js</location>
+		</link>
+		<link>
+			<name>RegisterPage/js/bootstrap.min.js.map</name>
+			<type>1</type>
+			<location>C:/Users/Acer/Downloads/SHAREit/To be filled by O.E.M/Documents/register_page/js/bootstrap.min.js.map</location>
+		</link>
+	</linkedResources>
 </projectDescription>

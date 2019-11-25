@@ -1,0 +1,177 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="ISO-8859-1">
+<title>Insert title here</title>
+<script>
+setTimeout(function() {
+      let container = document.querySelector(".container");
+      let pageContent = document.querySelector(".page-content");
+      container.style.display = "none";
+      pageContent.style.display = "flex";
+      
+    }, 2000);
+</script>
+</head>
+<body>
+<style>
+body {
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+      background-color: #444;
+    }
+    .container {
+      position: absolute;
+      top: 50%;
+      left: 50%;
+      transform: translate(-50%, -50%);
+      height: 60px;
+      width: 60px;
+    }
+    .box {
+      position: absolute;
+      background-color: red;
+      width: 30px;
+      height: 30px;
+    }
+    .box:nth-child(1) {
+      animation: a1 2s infinite linear;
+    }
+    .box:nth-child(2) {
+      animation: a2 2s infinite linear;
+    }
+    .page-content {
+      display: none;
+      flex-direction: column;
+      height: 100vh;
+      align-items: center;
+      justify-content: center;
+    }
+    .title {
+      color: white;
+      font-family: "Arial", sans-serif;
+    }
+    
+    @keyframes a1 {
+      0% {
+        top: 0;
+        left: 0;
+        width: 30px;
+        height: 30px;    
+      }
+      12.5% {
+        top: 0;
+        left: 0;
+        width: 30px;
+        height: 30px;  
+      }
+      25% {
+        top: 0;
+        left: 0;
+        width: 60px;
+        height: 30px; 
+      }
+      37.5% {
+        top: 0;
+        left: 0;
+        width: 60px;
+        height: 30px; 
+      }
+      50% {
+        top: 0;
+        left: 30px;
+        width: 30px;
+        height: 30px; 
+      }
+      62.5% {
+        top: 0;
+        left: 30px;
+        width: 30px;
+        height: 30px; 
+      }
+      75% {
+        top: 0;
+        left: 30px;
+        width: 30px;
+        height: 60px; 
+      }
+      87.5% {
+        top: 30px;
+        left: 30px;
+        width: 30px;
+        height: 30px; 
+      }
+      100% {
+        top: 30px;
+        left: 30px;
+        width: 30px;
+        height: 30px; 
+      }
+    }
+    @keyframes a2 {
+      0% {
+        right: 0;
+        bottom: 0;
+        height: 30px;
+        width: 30px;   
+      }
+      12.5% {
+        right: 0;
+        bottom: 0;
+        height: 30px;
+        width: 30px;  
+      }
+      25% {
+        right: 0;
+        bottom: 0;
+        height: 30px;
+        width: 60px;
+      }
+      37.5% {
+        right: 0;
+        bottom: 0;
+        height: 30px;
+        width: 60px; 
+      }
+      50% {
+        right: 30px;
+        bottom: 0;
+        height: 30px;
+        width: 30px; 
+      }
+      62.5% {
+        right: 30px;
+        bottom: 0;
+        height: 30px;
+        width: 30px;
+      }
+      75% {
+        right: 30px;
+        bottom: 0;
+        height: 60px;
+        width: 30px; 
+      }
+      87.5% {
+        right: 30px;
+        bottom: 0;
+        height: 60px;
+        width: 30px;
+      }
+      100% {
+        right: 30px;
+        bottom: 30px;
+        height: 30px;
+        width: 30px;
+      }
+    }
+</style>
+  <div class="page-content">
+  <h1 class="title">Welcome to the page</h1>
+  </div>
+  <div class="container">
+    <div class="box"></div>
+    <div class="box"></div>
+  </div>
+</body>
+</html>
